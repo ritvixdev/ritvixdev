@@ -5,11 +5,12 @@
 
 - 👯 I’m looking to collaborate on **ReactJS or Python Projects**
 
+- 🔭 I’m constantly looking for opportunities to grow as a developer
+
 - 💬 Ask me about **Automation (Python)**
 
 - ⚡ Fun fact **RitviX is a YouTube Channel**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
