@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **MERN Stack & Python**
 
-- 👯 I’m looking to collaborate on **ReactJS or Python Projects**
+- 🤝 I’m looking to collaborate on **ReactJS or Python Projects**
 
 - 🔭 I’m constantly looking for opportunities to **grow as a developer**
 
