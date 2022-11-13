@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS or Python Projects**
 
-- 🔭 I’m constantly looking for opportunities to grow as a developer
+- 🔭 I’m constantly looking for opportunities to **grow as a developer**
 
 - 💬 Ask me about **Automation (Python)**
 
