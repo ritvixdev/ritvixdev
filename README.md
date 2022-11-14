@@ -24,7 +24,7 @@
 
 <br/>  
 
-![](https://github-readme-stats-ritvixdev.vercel.app/api?username=ritvixdev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-64nd7rm7g-ritvixdev.vercel.app/api?username=ritvixdev&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
 
