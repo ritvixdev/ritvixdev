@@ -34,7 +34,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ritvixdev&&style=flat-square)  
+
   
 <br/>  
 
