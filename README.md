@@ -38,7 +38,6 @@
   
 <br/>  
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritvixdev&show_icons=true&locale=en" alt="ritvixdev" /><
-/p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritvixdev&show_icons=true&locale=en" alt="ritvixdev" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritvixdev&show_icons=true&locale=en&layout=compact" alt="ritvixdev" /></p> -->
