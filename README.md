@@ -36,7 +36,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ritvixdev&&style=flat-square)  
  
- 
 <br/>  
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritvixdev&show_icons=true&locale=en" alt="ritvixdev" /></p>
